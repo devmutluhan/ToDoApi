@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d70e4ec1-331d-44be-96c6-fd14b36ae1b0": {
+      "ProjectGuid": "d70e4ec1-331d-44be-96c6-fd14b36ae1b0",
+      "DisplayName": "BusinessLayer",
+      "ColorIndex": 0
+    },
+    "3f5e2b8c-f01b-43aa-91f9-421dc8032a84": {
+      "ProjectGuid": "3f5e2b8c-f01b-43aa-91f9-421dc8032a84",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 1
+    },
+    "d4014f45-0581-40e3-bb60-69caa2ebdd42": {
+      "ProjectGuid": "d4014f45-0581-40e3-bb60-69caa2ebdd42",
+      "DisplayName": "Model",
+      "ColorIndex": 2
+    },
+    "50972cbb-05b2-42c9-9525-0b27960d09bb": {
+      "ProjectGuid": "50972cbb-05b2-42c9-9525-0b27960d09bb",
+      "DisplayName": "ToDoLists",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ca04c7e4-8a72-4aaf-a98a-1f131a47c4de": {
+      "ProjectGuid": "ca04c7e4-8a72-4aaf-a98a-1f131a47c4de",
+      "DisplayName": "ToDoConsoleApp",
+      "ColorIndex": 4
+    },
+    "432ce755-b855-443e-9dd7-26563c2dcd44": {
+      "ProjectGuid": "432ce755-b855-443e-9dd7-26563c2dcd44",
+      "DisplayName": "TodoApi",
+      "ColorIndex": 5
+    },
+    "6f817784-e8a2-4842-a0e2-646ef719ca57": {
+      "ProjectGuid": "6f817784-e8a2-4842-a0e2-646ef719ca57",
+      "DisplayName": "ToDoApi2",
+      "ColorIndex": 6
+    },
+    "ae6e0c31-4286-4640-8aba-6237577a4f38": {
+      "ProjectGuid": "ae6e0c31-4286-4640-8aba-6237577a4f38",
+      "DisplayName": "ToDoApi",
+      "ColorIndex": 7
+    },
+    "dcea0062-c924-4e9a-b6b5-c25bfaad215a": {
+      "ProjectGuid": "dcea0062-c924-4e9a-b6b5-c25bfaad215a",
+      "DisplayName": "ToDoConsoleApp",
+      "ColorIndex": 8
+    },
+    "64e70378-b81b-44a5-97bf-8ff13b130943": {
+      "ProjectGuid": "64e70378-b81b-44a5-97bf-8ff13b130943",
+      "DisplayName": "ToDoConsoleAppp",
+      "ColorIndex": 9
+    },
+    "1cda86a9-d7fb-4a3c-b7b8-cf42572bb1c2": {
+      "ProjectGuid": "1cda86a9-d7fb-4a3c-b7b8-cf42572bb1c2",
+      "DisplayName": "ToDoConsoleApp",
+      "ColorIndex": 10
+    },
+    "fa7409a2-cb56-4d36-ac83-9f345bf99df5": {
+      "ProjectGuid": "fa7409a2-cb56-4d36-ac83-9f345bf99df5",
+      "DisplayName": "ToDoWebApp",
+      "ColorIndex": 11
+    },
+    "1903e05f-7b9c-4418-ba48-119685b2ed51": {
+      "ProjectGuid": "1903e05f-7b9c-4418-ba48-119685b2ed51",
+      "DisplayName": "ToDoApi",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}
