@@ -1,0 +1,90 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color:rgb(158, 185, 192);
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    background: #eee;
+    font-size: 20px;
+    transition: 0.2s;
+    list-style-type: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+ul li:hover {
+    background: rgb(25, 156, 69);
+}
+
+.header h1{
+    font-family:'Kaushan Script', cursive;
+    font-size: 62px;
+    margin: 20px;
+}
+
+.header {
+    background-color:rgb(34, 31, 61);
+    padding: 20px ;
+    color: white;
+    text-align: center;
+}
+
+.header:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+input {
+    margin: 0;
+    border: none;
+    border-radius: 0;
+    width: 75%;
+    padding: 10px;
+    float: left;
+    font-size: 16px;
+}
+
+.button {
+    padding:10px;
+    border: none;
+    width: 24%;
+    margin-left: 3px ;
+    background: rgb(158, 185, 192);
+    font-family: 'Dancing Script', cursive;
+    color:black ;
+    float: left;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 0;
+}
+
+.button:hover {
+    background-color: rgb(15, 182, 70);
+}
+
+.btn {
+    background-color: #eee;
+    float: right;
+    margin: 5px;
+    border: #eee;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #f78501;
+}

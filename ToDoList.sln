@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "DataAcce
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{D4014F45-0581-40E3-BB60-69CAA2EBDD42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoConsoleApp", "ToDoConsoleApp\ToDoConsoleApp.csproj", "{1CDA86A9-D7FB-4A3C-B7B8-CF42572BB1C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoConsoleApp", "ToDoConsoleApp\ToDoConsoleApp.csproj", "{1CDA86A9-D7FB-4A3C-B7B8-CF42572BB1C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApi", "ToDoApi\ToDoApi.csproj", "{1903E05F-7B9C-4418-BA48-119685B2ED51}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoWebApi", "WebApi\TodoWebApi.csproj", "{7D09D3EF-45FE-420B-B149-9ACFA2951957}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{1CDA86A9-D7FB-4A3C-B7B8-CF42572BB1C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CDA86A9-D7FB-4A3C-B7B8-CF42572BB1C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CDA86A9-D7FB-4A3C-B7B8-CF42572BB1C2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1903E05F-7B9C-4418-BA48-119685B2ED51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1903E05F-7B9C-4418-BA48-119685B2ED51}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1903E05F-7B9C-4418-BA48-119685B2ED51}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1903E05F-7B9C-4418-BA48-119685B2ED51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D09D3EF-45FE-420B-B149-9ACFA2951957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D09D3EF-45FE-420B-B149-9ACFA2951957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D09D3EF-45FE-420B-B149-9ACFA2951957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D09D3EF-45FE-420B-B149-9ACFA2951957}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

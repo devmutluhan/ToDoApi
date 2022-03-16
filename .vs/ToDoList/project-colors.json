@@ -70,7 +70,12 @@
       "ProjectGuid": "1903e05f-7b9c-4418-ba48-119685b2ed51",
       "DisplayName": "ToDoApi",
       "ColorIndex": 12
+    },
+    "7d09d3ef-45fe-420b-b149-9acfa2951957": {
+      "ProjectGuid": "7d09d3ef-45fe-420b-b149-9acfa2951957",
+      "DisplayName": "TodoWebApi",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 14
 }

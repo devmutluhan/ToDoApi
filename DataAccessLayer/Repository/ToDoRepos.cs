@@ -47,7 +47,7 @@ namespace DataAccessLayer.Repository
         {
             using (var connection = GetConnection())
             {
-                connection.Execute($"Update ToDoList Set ToDoStr=@ToDoStr Where ToDoId={Input}", toDo);
+                connection.Execute($"Update ToDoList Set ToDoStr=@ToDoStr, isActive=@isActive Where ToDoId={Input}", toDo);
             }
         }
     }
