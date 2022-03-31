@@ -15,4 +15,4 @@
 - Aynı zamanda diyelim ki listemizde ki bir fikiri gerçekleştirdik o fikire tıklayıp onun rengini yeşil yapabiliriz.
 - Sayfa resmi:
 
-![ToDo Sayfası](https://github.com/devmutluhan/ToDoApi/blob/main/Images/TodoList.png = 500x)
+![ToDo Sayfası](https://github.com/devmutluhan/ToDoApi/blob/main/Images/TodoList.png =500x500)
